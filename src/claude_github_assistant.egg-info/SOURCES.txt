@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/claude_github_assistant/__init__.py
+src/claude_github_assistant/config.py
+src/claude_github_assistant/git_service.py
+src/claude_github_assistant/github_service.py
+src/claude_github_assistant/security.py
+src/claude_github_assistant/server.py
+src/claude_github_assistant.egg-info/PKG-INFO
+src/claude_github_assistant.egg-info/SOURCES.txt
+src/claude_github_assistant.egg-info/dependency_links.txt
+src/claude_github_assistant.egg-info/requires.txt
+src/claude_github_assistant.egg-info/top_level.txt
+tests/test_security.py
+tests/test_validation.py
